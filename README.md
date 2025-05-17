@@ -95,14 +95,3 @@ The application connects to the [DummyJSON](https://dummyjson.com/) API to searc
 - `npm run lint` - Run ESLint to check code quality
 - `npm run preview` - Preview the production build locally
 
-## Future Improvements
-
-- Add filtering options by price, category, etc.
-- Implement sorting functionality
-- Add favorites/wishlist functionality
-- Integrate with a state management library for larger scale applications
-- Add unit and integration tests
-
-## License
-
-This project is licensed under the MIT License.
