@@ -26,7 +26,6 @@ A React application that allows users to autocomplete search for products using 
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd clinikally_assignment/frontend
    ```
 
 2. Install dependencies:
@@ -65,7 +64,7 @@ A React application that allows users to autocomplete search for products using 
 4. **Error Handling**:
    - Implemented clear error messages with visual cues
    - Added loading states to provide feedback during API calls
-   - 
+   
 ## Project Structure
 
 ```
